@@ -1,0 +1,11 @@
+{
+  "name": "tonto-site",
+  "version": "1.0.0",
+  "description": "static site for wedding car rental",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
